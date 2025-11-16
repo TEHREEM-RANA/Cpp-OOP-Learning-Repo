@@ -25,7 +25,7 @@ Semester: 2nd Semester (2025)
 
 Instructor: Dr. Shahab Ahmed Siddique
 
-📂 Repository Structure
+'''📂 Repository Structure
 OOP-in-Cpp-Sem2/
 │
 ├── Chapter-06-Objects-and-Classes/
@@ -59,7 +59,7 @@ OOP-in-Cpp-Sem2/
 │   └── chapter-exercises/
 │
 ├── README.md                    
-└── Object-Oriented-Programming-in-C++-4th-Edition.pdf  
+└── Object-Oriented-Programming-in-C++-4th-Edition.pdf  '''
 
 📚 Chapters Covered This Semester
 
