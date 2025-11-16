@@ -1,37 +1,30 @@
 # Cpp-OOP-Learning-Repo
-OOP in C++ – Semester 2 Learning Repository
-📖 Repository Overview
+# OOP in C++ – Semester 2 Learning Repository
 
-This repository is my personal learning archive for Object-Oriented Programming (OOP) in C++ during the 2nd semester at UBIT, University of Karachi.
+## 📖 Repository Overview
+This repository is my personal learning archive for **Object-Oriented Programming (OOP) in C++** during the **2nd semester at UBIT, University of Karachi**.  
 It contains all my code examples, exercises, and notes organized by chapters for easy revision and to help classmates learn from my work.
 
-🎯 Purpose of This Repository
+## 🎯 Purpose of This Repository
+- **Master OOP Concepts:** Write, practice, and save all topic codes and exercises.  
+- **Organized Reference:** Code is structured by chapter, topic, and exercise type.  
+- **Peer Resource:** A helpful guide for classmates to understand OOP concepts through examples.
 
-Master OOP Concepts: Write, practice, and save all topic codes and exercises.
+## 🏫 Course Details
+- **University:** University of Karachi – UBIT (Department of Computer Science)  
+- **Course Name:** Object-Oriented Concepts and Programming  
+- **Course Code:** 352  
+- **Semester:** 2nd Semester (2025)  
+- **Instructor:** Dr. Shahab Ahmed Siddique  
 
-Organized Reference: Code is structured by chapter, topic, and exercise type.
-
-Peer Resource: A helpful guide for classmates to understand OOP concepts through examples.
-
-🏫 Course Details
-
-University: University of Karachi – UBIT (Department of Computer Science)
-
-Course Name: Object-Oriented Concepts and Programming
-
-Course Code: 352
-
-Semester: 2nd Semester (2025)
-
-Instructor: Dr. Shahab Ahmed Siddique
-
-'''📂 Repository Structure
+## 📂 Repository Structure
+```text
 OOP-in-Cpp-Sem2/
 │
 ├── Chapter-06-Objects-and-Classes/
-│   ├── README.md                
-│   ├── chapter-codes/           
-│   └── chapter-exercises/       
+│   ├── README.md
+│   ├── chapter-codes/
+│   └── chapter-exercises/
 │
 ├── Chapter-07-Arrays-and-Strings/
 │   ├── README.md
@@ -58,8 +51,9 @@ OOP-in-Cpp-Sem2/
 │   ├── chapter-codes/
 │   └── chapter-exercises/
 │
-├── README.md                    
-└── Object-Oriented-Programming-in-C++-4th-Edition.pdf  '''
+├── README.md
+└── Object-Oriented-Programming-in-C++-4th-Edition.pdf
+
 
 📚 Chapters Covered This Semester
 
