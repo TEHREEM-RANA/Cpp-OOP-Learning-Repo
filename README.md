@@ -2,12 +2,11 @@
 
 ## 📖 Repository Overview
 This repository is my personal learning archive for **Object-Oriented Programming (OOP) in C++** during the **2nd semester at UBIT, University of Karachi**.  
-It contains all my code examples, exercises, and notes organized by chapters for easy revision and to help classmates learn from my work.
+It contains all my code examples, exercises, and notes organized by chapters for easy revision .
 
 ## 🎯 Purpose of This Repository
 - **Master OOP Concepts:** Write, practice, and save all topic codes and exercises.  
 - **Organized Reference:** Code is structured by chapter, topic, and exercise type.  
-- **Peer Resource:** A helpful guide for classmates to understand OOP concepts through examples.
 
 ## 🏫 Course Details
 - **University:** University of Karachi – UBIT (Department of Computer Science)  
@@ -74,7 +73,6 @@ Navigate to the chapter folder you want to study.
 Each chapter contains:
 chapter-codes/ → Topic-wise codes from the textbook.
 chapter-exercises/ → Solutions to exercises at the end of each chapter.
-Each chapter also has a README.md summarizing:
 Key topics covered
 Code file descriptions
 
